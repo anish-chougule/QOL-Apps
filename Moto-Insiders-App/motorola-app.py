@@ -7,7 +7,7 @@ import io
 # Set page configuration
 st.set_page_config(
     page_title="Motorola Products Analyzer",
-    page_icon="moto-insiders-logo.png",
+    page_icon="https://play-lh.googleusercontent.com/xrAQBO5EeP6FaXdh4cGfadV4jAbqdy-c93pqdpoqXxeQe7jrLjgbn6K1bnQ4hL9T_0s",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -59,7 +59,7 @@ def main():
     # App header
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("moto-insiders-logo.png", width=100)
+        st.image("https://play-lh.googleusercontent.com/xrAQBO5EeP6FaXdh4cGfadV4jAbqdy-c93pqdpoqXxeQe7jrLjgbn6K1bnQ4hL9T_0s", width=100)
     with col2:
         st.markdown('<h1 class="main-header">Moto Insiders Submissions</h1>', unsafe_allow_html=True)
 
