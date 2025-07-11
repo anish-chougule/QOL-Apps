@@ -6,7 +6,7 @@ import io
 
 # Set page configuration
 st.set_page_config(
-    page_title="Motorola Products Analyzer",
+    page_title="Moto Insiders Submissions",
     page_icon="https://play-lh.googleusercontent.com/xrAQBO5EeP6FaXdh4cGfadV4jAbqdy-c93pqdpoqXxeQe7jrLjgbn6K1bnQ4hL9T_0s",
     layout="wide",
     initial_sidebar_state="expanded"
